@@ -1,5 +1,6 @@
-Mail,1,2
-Sambathkumar.cb20@bitsathy.ac.in,present,absent
-Naveena.cb20@bitsathy.ac.in,present,absent
-Unknown,present,absent
-Nethra.cb20@bitsathy.ac.in,present,absent
+Mail,1,2,3
+Sambathkumar.cb20@bitsathy.ac.in,present,present,absent
+Naveena.cb20@bitsathy.ac.in,present,present,absent
+Unknown,present,present,absent
+Nethra.cb20@bitsathy.ac.in,present,absent,absent
+Sarankumar.cb20@bitsathy.ac.in,absent,present,absent

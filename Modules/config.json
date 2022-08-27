@@ -3,7 +3,7 @@
         "attendancePath":"Sheets//attendance.csv"
     },
     "time":{
-        "morning":"14:18:00",
+        "morning":"18:06:00",
         "afternoon":"16:35:00",
         "duration":"120"
     }
